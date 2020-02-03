@@ -1,0 +1,18 @@
+* {
+    padding : 0;
+    margin : 0;
+}
+body {
+		background-color: black;
+ }
+canvas {
+		margin: 0;
+		z-index: 100;
+}
+audio {
+display: none;
+}
+@font-face {
+font-family: "ChunkFive";
+src: url("graphics/Chunkfive.otf");
+}
