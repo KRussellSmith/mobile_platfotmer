@@ -8,7 +8,7 @@ The player may shoot them, however they do not harm the character, due to the la
 
 Credits & Acknowledgements
 --------------------------
-This program makes use of James Hallidan's [point-in-polygon algorithm](https://github.com/substack/point-in-polygon).
+This program makes use of James Halliday's [point-in-polygon algorithm](https://github.com/substack/point-in-polygon).
 
 It also uses a counterclockwise line-to-line intersection algorithm from these answers to [this Stack Overflow question](https://stackoverflow.com/q/9043805/11612001):
 	https://stackoverflow.com/a/16725715/11612001
